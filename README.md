@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git,github)](https://skillicons.dev)
 
+<hr>
 
 [![Cloud and DB](https://skillicons.dev/icons?i=sql,mangodb,AWS)](https://skillicons.dev)
 
