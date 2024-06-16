@@ -4,19 +4,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Data Science,Web Development
+- 🌱 I’m currently learning Coding
+- 👯 I’m looking to collaborate on Web Development
+- 🤔 I’m looking for help with LLMs
+- 💬 Ask me about Python
+- 📫 How to reach me: leave a mail to sivamsg114@gmail.com
+- 😄 Pronouns: He/ Him
+- ⚡ Fun fact: I keep my doors open for new connections
 <hr>
 
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git,github)](https://skillicons.dev)
+
+
+[![Cloud and DB](https://skillicons.dev/icons?i=sql,mangodb,AWS)](https://skillicons.dev)
+
 
 <hr>
 
