@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![Cloud and DB](https://skillicons.dev/icons?i=smyql,mangodb,aws)](https://skillicons.dev)
+[![Cloud and DB](https://skillicons.dev/icons?i=aw,sql)](https://skillicons.dev)
 
 
 <hr>
