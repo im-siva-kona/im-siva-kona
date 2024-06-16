@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python
 - 📫 How to reach me: leave a mail to sivamsg114@gmail.com
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I keep my doors open for new connections
+- ⚡ Fun fact: my doors are always open for new connections
 <hr>
 
 ### Skills
