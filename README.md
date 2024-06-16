@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <hr>
 
+### Skills
+
 [![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git,github)](https://skillicons.dev)
