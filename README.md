@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git,github)](https://skillicons.dev)
+
+<hr>
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
