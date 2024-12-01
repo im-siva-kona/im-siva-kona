@@ -4,14 +4,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Science,Web Development
-- 🌱 I’m currently learning Coding
+- 🔭 I’m currently exploring on Data Science,Web Development
+- 🌱 I’m Experting my Coding Skills
 - 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with LLMs
-- 💬 Ask me about Python
-- 📫 How to reach me: leave a mail to sivamsg114@gmail.com
+- 🤔 I’m looking for help with cracking jokes
+- 💬 Ask me about Python, Front End
+- 📫 How to reach me: leave a mail to sivamsg1114@gmail.com
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: my doors are always open for new connections
+- ⚡ Fun fact: doors are always open for new connections
 <hr>
 
 ### Skills
